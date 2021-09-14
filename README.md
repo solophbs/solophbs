@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm well versed in zero-bug development under root privileges
-
 <!--
 **icpigci/icpigci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
