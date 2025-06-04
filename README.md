@@ -1,3 +1,4 @@
+### Hey - DeFi!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solophbs/solophbs/output/github-snake-dark.svg" />
