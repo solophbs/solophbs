@@ -1,4 +1,4 @@
-### Hey - DeFi! ![Visit counter](https://visitor-badge.laobi.icu/badge?page_id=solophbs)
+### Hey! - Hey! ![Visit counter](https://visitor-badge.laobi.icu/badge?page_id=solophbs)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solophbs/solophbs/output/github-snake-dark.svg" />
